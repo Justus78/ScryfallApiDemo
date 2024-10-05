@@ -1,0 +1,27 @@
+﻿@model MagicCard
+
+<div class="container">
+    <div>
+        <h1 class="text-center">Random Magic: The Gathering Card</h1>
+    </div>
+
+    @if (Model != null)
+    {
+        <div class="container text-center mx-auto my-4">
+            <img class="img-fluid mt-3" src="@Model.ImageUrl" alt="@Model.Name" style="max-width: 400px; height: auto;">
+
+            <h2>@Model.Name</h2>
+            <p><strong>Mana Cost:</strong> @Model.ManaCost</p>
+            <p><strong>Type:</strong> @Model.TypeLine</p>
+            <p><strong>Oracle Text:</strong> @Model.OracleText</p>
+
+            <div class="text-center mt-4">
+                <a asp-action="Index" asp-controller="Magic" class="btn btn-primary">New Card</a>
+            </div>
+        </div>       
+    }
+    else
+    {
+        <p>Could not retrieve card data.</p>
+    }
+</div>

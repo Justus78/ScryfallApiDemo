@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScyfallAPI", "ScyfallAPI\ScyfallAPI.csproj", "{8FAB81DC-F151-49C7-A4A0-97873E911BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAB81DC-F151-49C7-A4A0-97873E911BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAB81DC-F151-49C7-A4A0-97873E911BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAB81DC-F151-49C7-A4A0-97873E911BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAB81DC-F151-49C7-A4A0-97873E911BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44491938-3E66-4149-9C15-3E21B4AEADC3}
+	EndGlobalSection
+EndGlobal
