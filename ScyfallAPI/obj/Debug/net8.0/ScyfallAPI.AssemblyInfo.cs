@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScyfallAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+befa21a863fbcb77d2989a6584092d4e71f27bc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScyfallAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScyfallAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

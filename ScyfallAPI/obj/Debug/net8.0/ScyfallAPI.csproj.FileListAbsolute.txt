@@ -274,3 +274,4 @@ C:\Users\Matt\Desktop\ScyfallAPI\ScyfallAPI\obj\Debug\net8.0\refint\ScyfallAPI.d
 C:\Users\Matt\Desktop\ScyfallAPI\ScyfallAPI\obj\Debug\net8.0\ScyfallAPI.pdb
 C:\Users\Matt\Desktop\ScyfallAPI\ScyfallAPI\obj\Debug\net8.0\ScyfallAPI.genruntimeconfig.cache
 C:\Users\Matt\Desktop\ScyfallAPI\ScyfallAPI\obj\Debug\net8.0\ref\ScyfallAPI.dll
+C:\Users\Matt\Desktop\ScyfallAPI\ScyfallAPI\obj\Debug\net8.0\ScyfallAPI.sourcelink.json
